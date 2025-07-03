@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I am Qhelani
 
-<!--
-**Qhelani01/Qhelani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ West Virginia State University  
+🔐 Cybersecurity Minor | 📸 Wildlife Photographer  
+🌍 Passionate about tech, nature, and digital creativity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Python, JavaScript, Swift
+- Web: HTML, CSS, FastAPI
+- Tools: Git, Xcode, Lightroom, Figma
+
+---
+
+## 🔥 Projects
+[Flycatcher App](https://github.com/Qhelani01/Flycatcher-App.git)  
+An iOS app for tracking migratory birds using eBird API & SwiftUI.
+
+[CampusClimb](https://github.com/Qhelani01/CampusClimb.git)  
+A student-focused web app to explore conferences and internships.
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](http://www.linkedin.com/in/qhelani-moyo) 
