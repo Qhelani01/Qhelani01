@@ -1,4 +1,4 @@
-## Hi there 👋 I am Qhelani
+## <h3 align="center">👋 Hi there, I'm <span style="color:#fca311">Qhelani</span> 👨🏾‍💻</h3>
 
 🎓 CS Student @ West Virginia State University  
 🔐 Cybersecurity Minor | 📸 Wildlife Photographer  
