@@ -1,4 +1,4 @@
-## <h3 align="center">👋 Hi there, I'm <span style="color:#fca311">Qhelani</span> 👨🏾‍💻</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Qhelani;&center=true&size=30)
 
 🎓 CS Student @ West Virginia State University  
 🔐 Cybersecurity Minor | 📸 Wildlife Photographer  
