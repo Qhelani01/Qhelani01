@@ -16,8 +16,10 @@
 ## 🔥 Top Projects
 [Phish Guardian](https://github.com/Qhelani01/Phish-Guardian.git)  
 A cybersecurity web app that protects users from phishing attacks by analyzing suspicious URLs and emails, powered by VirusTotal
+
 [My Portfolio](https://github.com/Qhelani01/Portfolio.git)  
 Personal portfolio website showcasing my skills, projects, and contact info — built with HTML, CSS, and JavaScript.
+
 [Flycatcher App](https://github.com/Qhelani01/Flycatcher-Web-App.git)  
 A Python Flask web app for bird observations in Southern Africa using eBird API and Google Maps
 
