@@ -27,5 +27,7 @@ A Python Flask web app for bird observations in Southern Africa using eBird API 
 
 ![Qhelani's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Qhelani01&show_icons=true&theme=radical&hide_border=true)
 
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Qhelani01&layout=compact&theme=radical&hide_border=true)
+
 ## 📫 Let's Connect
 [LinkedIn](http://www.linkedin.com/in/qhelani-moyo) | [Instagram](https://www.instagram.com/qhelani_moyo)
