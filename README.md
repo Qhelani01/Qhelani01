@@ -6,14 +6,14 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 - Programming: Python, JavaScript, Swift
 - Web: HTML, CSS, FastAPI
 - Tools: Git, Flask, XCode, PyTorch
 
 ---
 
-## 🔥 Top Projects
+## Top Projects
 [Campus Climb](https://github.com/Qhelani01/Campus-Climb.git)  
 A web application for managing and displaying career opportunities for WVSU students
 
@@ -28,5 +28,5 @@ A Python Flask web app for bird observations in Southern Africa using eBird API 
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 [LinkedIn](http://www.linkedin.com/in/qhelani-moyo) | [Instagram](https://www.instagram.com/qhelani_moyo)
