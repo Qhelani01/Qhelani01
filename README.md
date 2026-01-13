@@ -2,20 +2,20 @@
 
 🎓 CS Student @ West Virginia State University  
 🔐 Cybersecurity Minor | 📸 Wildlife Photographer  
-🌍 Passionate about tech, nature, and digital creativity
+🌍 Passionate about tech, nature, and building cool projects!
 
 ---
 
 ## 🛠️ Skills
 - Programming: Python, JavaScript, Swift
 - Web: HTML, CSS, FastAPI
-- Tools: Git, Xcode, Lightroom, Figma
+- Tools: Git, Flask, XCode, PyTorch
 
 ---
 
 ## 🔥 Top Projects
 [Campus Climb](https://github.com/Qhelani01/Campus-Climb.git)  
-A modern web application for managing and displaying career opportunities, internships, conferences, workshops, and competitions for WVSU students
+A web application for managing and displaying career opportunities for WVSU students
 
 [Phish Guardian](https://github.com/Qhelani01/Phish-Guardian.git)  
 A cybersecurity web app that protects users from phishing attacks by analyzing suspicious URLs and emails, powered by VirusTotal
