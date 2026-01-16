@@ -1,6 +1,6 @@
-## Hi there 👋🏾
+# Hi there 👋🏾
 
-# About Qhelani Moyo
+## About Qhelani Moyo
 
 🎓 CS Student @ West Virginia State University  
 🔐 Cybersecurity Minor | 📸 Wildlife Photographer  
