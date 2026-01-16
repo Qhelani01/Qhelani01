@@ -1,4 +1,6 @@
- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I%27m+Qhelani+👋;&center=true&size=30) 
+## Hi there 👋🏾
+
+# About Qhelani Moyo
 
 🎓 CS Student @ West Virginia State University  
 🔐 Cybersecurity Minor | 📸 Wildlife Photographer  
