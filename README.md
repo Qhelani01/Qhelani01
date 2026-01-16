@@ -13,6 +13,18 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/tech-stack.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 ## Top Projects
 [Campus Climb](https://github.com/Qhelani01/Campus-Climb.git)  
 A web application for managing and displaying career opportunities for WVSU students
