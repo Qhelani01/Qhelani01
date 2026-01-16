@@ -11,8 +11,6 @@
 - Web: HTML, CSS, FastAPI
 - Tools: Git, Flask, XCode, PyTorch
 
----
-
 <p align="center">
   <img src="./assets/tech-stack.png" width="600" />
 </p>
@@ -24,6 +22,8 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+---
 
 ## Top Projects
 [Campus Climb](https://github.com/Qhelani01/Campus-Climb.git)  
