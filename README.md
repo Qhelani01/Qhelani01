@@ -2,7 +2,7 @@
 
 ## About Qhelani Moyo
 
-🎓 CS Student @ West Virginia State University  
+🎓 Computer Science Student @ West Virginia State University  
 🔐 Cybersecurity Minor | 📸 Wildlife Photographer  
 🌍 Passionate about tech, nature, and building cool projects!
 
